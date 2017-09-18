@@ -1,0 +1,16 @@
+{
+  "name": "react-ru-tutorial",
+  "version": "1.0.0",
+  "description": "React RU tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Igor Shchipanov",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "express": "^4.15.4"
+  },
+}
